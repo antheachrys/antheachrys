@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthea @antheachrys 🌸
 - 👀 I’m interested in designing, creating, and maintaining websites. 
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me 
+- 📫 How to reach me <br>
 Discord - Kiss Shot#5364
 
 <!---
